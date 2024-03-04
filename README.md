@@ -1,6 +1,6 @@
 # Document Scanner App
 
-A simple React-based web application for capturing, cropping, and uploading document images.
+A React-based web application for capturing, cropping, and uploading document images.
 
 <!-- ## Demo
 
